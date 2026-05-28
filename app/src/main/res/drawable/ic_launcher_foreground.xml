@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- WhatsApp inspired segmented status ring in brand green -->
+    <path
+        android:pathData="M 58 28.3 A 26 26 0 0 1 79.7 50"
+        android:strokeColor="#25D366"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M 79.7 58 A 26 26 0 0 1 58 79.7"
+        android:strokeColor="#25D366"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M 50 79.7 A 26 26 0 0 1 28.3 58"
+        android:strokeColor="#25D366"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M 28.3 50 A 26 26 0 0 1 50 28.3"
+        android:strokeColor="#25D366"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Sleek downward download arrow, crisp high-contrast white -->
+    <path
+        android:pathData="M 54,61 L 43,50 H 49 V 38 H 59 V 50 H 65 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Thick bottom tray representing save/download base, crisp white -->
+    <path
+        android:pathData="M 43,67 H 65"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+</vector>
+

@@ -1,0 +1,6 @@
+{
+  "name": "Status Saver",
+  "description": "Save and view WhatsApp photo and video statuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
